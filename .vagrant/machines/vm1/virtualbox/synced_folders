@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/tulio-eloi/trabalho-redes/3-VM/pasta-compartilhada","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/tulio-eloi/trabalho-redes/3-VM","disabled":false,"__vagrantfile":true}}}
